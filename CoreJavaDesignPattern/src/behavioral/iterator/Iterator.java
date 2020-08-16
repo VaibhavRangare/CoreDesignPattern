@@ -5,4 +5,5 @@ public interface Iterator {
 
 	public String next();
 
+
 }
