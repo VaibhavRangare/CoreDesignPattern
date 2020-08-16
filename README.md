@@ -1,1 +1,1 @@
-# CoreDesignPattern
+# CoreDesignPattern 
